@@ -1,2 +1,9 @@
 # LinearRegression
-This is a simple linear regression model that aims to predict salaries.
+# Packages used:
+#### Statsmodels
+#### Numpy
+#### Pandas
+#### Seaborn
+#### SKLearn
+#### Scipy
+# Python Version 3.6
